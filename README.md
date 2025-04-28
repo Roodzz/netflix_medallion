@@ -90,7 +90,3 @@ Os resultados do processamento estarão disponíveis na camada "Ouro", onde voc�
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tem sugestões ou melhorias para o projeto, sinta-se à vontade para abrir um _pull request_.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
